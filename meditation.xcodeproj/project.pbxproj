@@ -14,6 +14,9 @@
 		18E8B1532588E51F00C8CBF3 /* meditation.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 18E8B1512588E51F00C8CBF3 /* meditation.xcdatamodeld */; };
 		18E8B1552588E52200C8CBF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18E8B1542588E52200C8CBF3 /* Assets.xcassets */; };
 		18E8B1582588E52200C8CBF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18E8B1562588E52200C8CBF3 /* LaunchScreen.storyboard */; };
+		18E8B162258C763000C8CBF3 /* MedTrackListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E8B161258C763000C8CBF3 /* MedTrackListTableViewController.swift */; };
+		18E8B165258C767200C8CBF3 /* MedtrackDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E8B164258C767200C8CBF3 /* MedtrackDetailsViewController.swift */; };
+		18E8B169258C76BC00C8CBF3 /* MedTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E8B168258C76BC00C8CBF3 /* MedTrack.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		18E8B1542588E52200C8CBF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18E8B1572588E52200C8CBF3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18E8B1592588E52200C8CBF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18E8B161258C763000C8CBF3 /* MedTrackListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedTrackListTableViewController.swift; sourceTree = "<group>"; };
+		18E8B164258C767200C8CBF3 /* MedtrackDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedtrackDetailsViewController.swift; sourceTree = "<group>"; };
+		18E8B168258C76BC00C8CBF3 /* MedTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedTrack.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +67,9 @@
 				18E8B1482588E51F00C8CBF3 /* AppDelegate.swift */,
 				18E8B14A2588E51F00C8CBF3 /* SceneDelegate.swift */,
 				18E8B14C2588E51F00C8CBF3 /* ViewController.swift */,
+				18E8B161258C763000C8CBF3 /* MedTrackListTableViewController.swift */,
+				18E8B164258C767200C8CBF3 /* MedtrackDetailsViewController.swift */,
+				18E8B168258C76BC00C8CBF3 /* MedTrack.swift */,
 				18E8B14E2588E51F00C8CBF3 /* Main.storyboard */,
 				18E8B1542588E52200C8CBF3 /* Assets.xcassets */,
 				18E8B1562588E52200C8CBF3 /* LaunchScreen.storyboard */,
@@ -144,6 +153,9 @@
 				18E8B1532588E51F00C8CBF3 /* meditation.xcdatamodeld in Sources */,
 				18E8B1492588E51F00C8CBF3 /* AppDelegate.swift in Sources */,
 				18E8B14B2588E51F00C8CBF3 /* SceneDelegate.swift in Sources */,
+				18E8B165258C767200C8CBF3 /* MedtrackDetailsViewController.swift in Sources */,
+				18E8B169258C76BC00C8CBF3 /* MedTrack.swift in Sources */,
+				18E8B162258C763000C8CBF3 /* MedTrackListTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
